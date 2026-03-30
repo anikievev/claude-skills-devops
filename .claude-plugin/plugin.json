@@ -1,0 +1,13 @@
+{
+  "name": "claude-skills-devops",
+  "description": "Production-grade Claude Code skill templates for DevOps tooling — Docker, Terraform, AWS CDK, Ansible, GitHub Actions, and GitLab CI. Each skill writes best-practice code: hardened Dockerfiles, least-privilege IAM, SHA-pinned workflows, idempotent playbooks, and layered CDK stacks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Evgeny Anikiev",
+    "url": "https://devopscloudconsult.com"
+  },
+  "homepage": "https://devopscloudconsult.com",
+  "repository": "https://github.com/anikievev/claude-skills-devops",
+  "license": "MIT",
+  "skills": "./skills"
+}
